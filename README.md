@@ -42,8 +42,7 @@ Acest proiect a beneficiat de asistență AI (model lingvistic mare) în următo
 
 Site-ul este găzduit prin GitHub Pages.
 
-* **Vizitează Site-ul Live:** [Adresa ta de GitHub Pages AICI]
-    *(Ex: https://[Numele-tău-GitHub].github.io/[Numele-Repository-ului]/)*
+* **Vizitează Site-ul Live:** https://vivikulik.github.io/Portofoliu-Psihologie-Site/
 
 ---
 
